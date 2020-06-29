@@ -6,7 +6,7 @@ This test is a part of our hiring process at crew.work for the Frontend Enginee
 
 At crew.work, our frontend stack consists of Angular and Typescript, but you are free to use any modern framework you wish, or do it VanillaJS style. 
 
-Threat this project as if you/we would continue working on this after your assignment: maintainability, scalability, and readability are super important.
+> Threat this project as if you/we would continue working on this after your assignment: maintainability, scalability, and readability are super important.
 
 ## Goal
 
@@ -14,17 +14,18 @@ For this assignment, you are supposed to build a job pipeline in Kanban board fo
 
 To give you an idea, here how the app should look like:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5f8ddca-c587-4aeb-acfb-eee8da51fcd2/Group_1_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5f8ddca-c587-4aeb-acfb-eee8da51fcd2/Group_1_(1).png)
+![Mokckup](mockup.png)
 
 HR managers can do the following:
 
 - Drag & drop candidates from a pipeline stage to another, for instance
     - "🏁 On-site Interview" → "✅ Hired"
     - "📞 Phone Screen" → "⛔ Rejected"
+   
 - Filter candidates by tech stack, for instance:
     - List only experienced candidates with React & Typescript
 
-Bonus: Surprise us! Add a feature that you think would work well here !
+>  Bonus: Surprise us! Add a feature that you think would work well here !
 
 ### API documentation
 
@@ -72,9 +73,9 @@ After you've finished, you can share the repository URL with us.
 
 After you delivered the completed assignment to us, we will review it as soon as we can, generally within 24 hours. **We pay special attention to:**
 
-- Coding skills (testable code, usage of HTML & CSS properly)
-- Adopting a component-based structure with a clean modern look.
-- Code organization (modularity, dependencies between modules, naming, etc)
-- Overall code quality (edge cases, usage of tools, performance, best practices)
+- [ ] Coding skills (testable code, usage of HTML & CSS properly)
+- [ ] Adopting a component-based structure with a clean modern look.
+- [ ] Code organization (modularity, dependencies between modules, naming, etc)
+- [ ] Overall code quality (edge cases, usage of tools, performance, best practices)
 
 ### Good luck,
