@@ -2,7 +2,7 @@
 
 This test is a part of our hiring process at crew.work for the Frontend Engineer position. It should take you between 1 and 3 hours depending on your experience.
 
-**Feel free to apply! Drop us a line with your LinkedIn/GitHub/Twitter and link of your code repository at [jobs@crew.work](mailto:jobs@crew.work)**
+**Feel free to apply! Drop us a line with your LinkedIn/GitHub/Twitter and link of your code repository at [mohamed@crew.work](mailto:mohamed@crew.work)**
 
 At crew.work, our frontend stack consists of Angular and Typescript, but you are free to use any modern framework you wish, or do it VanillaJS style. 
 
